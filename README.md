@@ -2,7 +2,7 @@
 Symbolic calculation of a minimal generating set for 2D geometric moment invariants in the  Jupyter notebook file and in Maple file
 
 ## Short manual for  Jupyter notebook
- 1. Install Python package ** sympy ** on your computer --> pip install numpy
+ 1. Install Python package **sympy** on your computer --> pip install numpy
  2. download the file 2DMoments_2019-checkpoint.ipynb at your conputer 
  3. Open it with Jupyter
  4. Run the cell with operators --> 
