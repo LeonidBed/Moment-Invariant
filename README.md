@@ -5,7 +5,7 @@ Symbolic calculation of a minimal generating set for 2D geometric moment invaria
  1. Install Python package **sympy** on your computer
  2. Download the file **2D_moment_invariants.ipynb** on your conputer 
  3. Open it with Jupyter
- 4. Run the cell with operators --> 
+ 4. Run the cell 
  5. The procedure II(d) returns the list of minimal renerating set of 2D geometric moment invariants of order d.  Just type II(d) in a cell and then  run the cell.
 
  
